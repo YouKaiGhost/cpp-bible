@@ -1,0 +1,20 @@
+# 编译产物
+00-hello-world/hello
+01-types/types
+02-expressions/expressions
+03-control-flow/control
+04-functions/functions
+04-functions/args
+05-arrays-pointers/arrays
+05-arrays-pointers/pointers
+06-strings/strings
+07-classes/classes
+08-storage/storage
+09-templates/templates
+10-undefined/portable
+11-capstone/calc
+build/
+*.o
+*.out
+a.out
+*.exe
